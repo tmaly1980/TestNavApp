@@ -1,7 +1,7 @@
 #  TestNavApp
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
-* Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
+* This shows an example demo of react-navigation where resetting the stack to a new screen will momentarily create a new instance of the old screen after it unmounts, causing difficulties depending upon componentWillMount() .
 
 ## :arrow_up: How to Setup
 
