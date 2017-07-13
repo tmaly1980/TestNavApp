@@ -1,6 +1,8 @@
 package com.testnavapp;
 
 import com.facebook.react.ReactActivity;
+import com.learnium.RNDeviceInfo.RNDeviceInfo;
+import com.lugg.ReactNativeConfig.ReactNativeConfigPackage;
 
 public class MainActivity extends ReactActivity {
 

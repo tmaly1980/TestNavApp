@@ -37,7 +37,7 @@ class Test2Screen extends React.Component {
         <KeyboardAvoidingView behavior='position'>
           <Text>Test2Screen</Text>
           <TouchableOpacity onPress={() => this.gotoOther('Test1Screen', {stuff: 'test1y'})} >
-            <Text>GOTO Test2</Text>
+            <Text>GOTO Test1</Text>
           </TouchableOpacity>
         </KeyboardAvoidingView>
       </ScrollView>
